@@ -1,1 +1,1 @@
-# CS206_Software_Testing
+# Copy of the Software Testing Repo
